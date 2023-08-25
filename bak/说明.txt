@@ -1,0 +1,7 @@
+第一次，更改config下的文件为zoo.cfg /usr/flink/zookeeper-3.4.13
+启动zoo
+bin/zkServer.sh start
+
+
+redis/springboot mybatis spring dubbo
+zookeeper  jmeter
